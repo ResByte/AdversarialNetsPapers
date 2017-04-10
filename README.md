@@ -139,6 +139,9 @@ The First paper
 12. [BEGAN: Boundary Equilibrium Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1703.10717)
 - "New equilibrium enforcing method paired with a loss derived from the Wasserstein distance for training auto-encoder based Generative Adversarial Networks."
 
+13. [Improved Training of Wasserstein GANs][[Paper]](https://arxiv.org/abs/1704.00028v1)
+- "Our proposed method converges faster and generates higher-quality samples than WGAN with weight clipping."
+
 ## 3D
 
 1. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
