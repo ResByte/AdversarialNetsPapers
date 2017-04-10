@@ -57,8 +57,7 @@ The First paper
 
 ## Clustering
 
-1. [Unsupervised Learning Using Generative Adversarial Training And Clustering][[Paper]](https://openreview.net/forum?id=SJ8BZTjeg&noteId=SJ8BZTjeg)[[Code]](https://github.com/VittalP/UnsupGAN)(ICLR)
-2. [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
+1. [Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1511.06390)(ICLR)
 
 ## Image Inpainting
 
