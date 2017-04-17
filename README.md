@@ -142,7 +142,7 @@ The First paper
 13. [Improved Training of Wasserstein GANs][[Paper]](https://arxiv.org/abs/1704.00028v1)
 - "Our proposed method converges faster and generates higher-quality samples than WGAN with weight clipping."
 
-14. [Adversarial Generator-Encoder Networks][[Paper]](https://arxiv.org/abs/1704.02304)
+14. [Adversarial Generator-Encoder Networks][[Paper]](https://arxiv.org/abs/1704.02304)[[Code]](https://github.com/DmitryUlyanov/AGE)
 
 ## 3D
 
