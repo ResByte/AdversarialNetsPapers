@@ -144,6 +144,8 @@ The First paper
 
 14. [Adversarial Generator-Encoder Networks][[Paper]](https://arxiv.org/abs/1704.02304)[[Code]](https://github.com/DmitryUlyanov/AGE)
 
+15. [Adversarial Machine Learning at Scale][[Paper]](https://arxiv.org/pdf/1611.01236v2.pdf)
+
 ## 3D
 
 1. [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] [[Paper]](https://arxiv.org/abs/1610.07584)[[Web]](http://3dgan.csail.mit.edu/)[[code]](https://github.com/zck119/3dgan-release)(2016 NIPS)
