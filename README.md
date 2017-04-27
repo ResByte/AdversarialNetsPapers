@@ -16,6 +16,7 @@ The First paper
 3. [Generative Adversarial Networks as Variational Training of Energy Based Models]()]([http://www.mathpubs.com/detail/1611.01799v1/Generative-Adversarial-Networks-as-Variational-Training-of-Energy-Based-Models](http://www.mathpubs.com/detail/1611.01799v1/Generative-Adversarial-Networks-as-Variational-Training-of-Energy-Based-Models))(ICLR 2017)
 4. [Learning from Simulated and Unsupervised Images through Adversarial Training][[Paper]](https://arxiv.org/abs/1612.07828)[[code]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)（Apple paper）
 5. [Adversarial Feature Learning][[Paper]](https://arxiv.org/abs/1605.09782)
+6. [Generalization and Equilibrium in Generative Adversarial Nets (GANs)][[Paper]](https://arxiv.org/pdf/1703.00573.pdf)[[Video]](https://www.youtube.com/watch?v=V7TliSCqOwI)
 
 ##  Image Generation 
 
